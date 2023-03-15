@@ -1,0 +1,24 @@
+h3{
+    background-color: darkblue;
+    color: azure;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 30px;
+}
+h4{
+    background-color: forestgreen;
+    color: darkblue;
+    font-size: 22px;
+}
+.campo{
+    font-style: oblique;
+    font-size: 16px;
+}
+li{
+    padding: 8px;
+}
+bottom{
+    padding: 2px;
+    border: solid;
+    background-color: cadetblue;
+}

@@ -1,0 +1,40 @@
+body{
+    background-color: lightgreen
+}
+#img1{
+    display: inline-block;
+    width: 15%;
+    float: left;
+}
+#img2{
+    display: inline-block;
+    width: 15s%;
+}
+#ttl{
+    font-family: sans-serif;
+    display: inline-block;
+    width: 55%;
+    color: darkblue;
+}
+h2{
+    font-style: italic;
+}
+#bnv{
+    clear: both;
+    text-align: center;
+}
+.lin{
+    display: inline-block;
+    background-color: forestgreen;
+    border: solid 3px;
+    width: 10%;
+}
+#fr{
+    width: 100%;
+    height: 600px;
+    background-color: azure;
+}
+#foot{
+    border: darkgray solid;
+    background-color: darkslategray;
+}

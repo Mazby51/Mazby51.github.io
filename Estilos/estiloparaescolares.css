@@ -1,0 +1,31 @@
+h3{
+    background-color: darkblue;
+    color: azure;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 30px;
+}
+.subt{
+    background-color: forestgreen;
+    color: darkblue;
+    font-size: 22px;
+}
+#sub{
+    font-style: oblique;
+    font-size: 16px;
+}
+h5{
+    font-size: 18px;
+}
+.para{
+    font-family: fantasy;
+    border: solid;
+    background-color: cadetblue;
+}
+div{
+    display: inline-block;
+}
+figure{
+    margin: 0px;
+    width: 480px;
+}

@@ -1,0 +1,18 @@
+header{
+    text-align: center;
+}
+h2{
+    font-family: sans-serif;
+}
+.sec{
+    text-align: center;
+    border: solid;
+    margin: 0 0 10px;
+}
+h4{
+    font-style: oblique;
+    text-decoration: underline;
+}
+.info{
+    display: inline-block;
+}

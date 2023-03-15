@@ -1,0 +1,23 @@
+header{
+    background-color: darkblue;
+}
+h3{
+    color: azure;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 30px;
+}
+h4{
+    font-size: 20px;
+    background-color: forestgreen;
+    color: darkblue;
+}
+#croquis{
+    float: left;
+    display: inline-block;
+    width: 40%;
+}
+#insta{
+    width: 40%;
+    display: inline-block;
+}
